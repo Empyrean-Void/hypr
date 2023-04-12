@@ -2,9 +2,7 @@
 
 Hyprland dotfiles
 
-## Installation (Intel/AMD)
-
-## Installation (Nvidia)
+## Installation (Nvidia only)
 
 - Install the needed dependencies
 
@@ -16,4 +14,10 @@ yay -S hyprland-nvidia hyprpaper waybar-hyprland xdg-desktop-portal-hyprland-git
 
 ```
 git clone https://github.com/Empyrean-Void/hypr.git ~/.config/hypr/
+```
+
+- (Optional) Clone my [waybar](https://github.com/Empyrean-Void/waybar.git)
+
+```
+git clone https://github.com/Empyrean-Void/waybar.git ~/.config/waybar/
 ```
